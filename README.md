@@ -1,2 +1,2 @@
-# flashcards
-Flashcard app
+# Flashcard app
+Flashcard app to study French.
